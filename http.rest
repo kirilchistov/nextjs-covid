@@ -1,0 +1,22 @@
+# Main api info
+GET  https://api.covid19api.com/ HTTP/1.1
+
+### Countries
+GET  https://api.covid19api.com/countries HTTP/1.1
+
+### Day One Total
+GET  https://api.covid19api.com/total/dayone/country/Azerbaijan HTTP/1.1
+
+
+### Total
+GET  https://api.covid19api.com/country/Azerbaijan HTTP/1.1
+
+
+### Summary
+GET  https://api.covid19api.com/summary HTTP/1.1
+
+### Total
+GET  https://api.covid19api.com/total/country/Russia HTTP/1.1
+
+### Premium
+GET  https://api.covid19api.com/premium/country/Jordan HTTP/1.1
